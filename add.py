@@ -1,1 +1,2 @@
-print("hello")
+print(25+65)
+print("ho")
